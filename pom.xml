@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.182.213.104:8181/Alfred/repository/mavenApp-snapshot/</url>
+	      <url>http://35.182.213.104:8181/Alfred/repository/mavenApp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
